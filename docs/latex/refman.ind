@@ -1,0 +1,106 @@
+\begin{theindex}
+
+  \item {A}
+    \subitem {array}, \hyperpage{9}
+    \subitem {pyfunc\_array}, \hyperpage{12}
+  \item {a}
+    \subitem {pyfunc}, \hyperpage{10}
+  \item {addEl}
+    \subitem {array.c}, \hyperpage{13}
+  \item {argtypes}
+    \subitem {pyfunc}, \hyperpage{10}
+    \subitem {pyfunc\_array}, \hyperpage{12}
+  \item {array}, \hyperpage{9}
+    \subitem {A}, \hyperpage{9}
+    \subitem {B}, \hyperpage{9}
+  \item {array.c}, \hyperpage{13}
+    \subitem {addEl}, \hyperpage{13}
+    \subitem {main}, \hyperpage{14}
+  \item {array.py}, \hyperpage{15}
+  \item {ArraySize}
+    \subitem {cache.c}, \hyperpage{15}
+  \item {arraySum}
+    \subitem {cfunc\_array.c}, \hyperpage{17}
+
+  \indexspace
+
+  \item {B}
+    \subitem {array}, \hyperpage{9}
+  \item {b}
+    \subitem {pyfunc}, \hyperpage{11}
+
+  \indexspace
+
+  \item {cache}, \hyperpage{9}
+    \subitem {dummy}, \hyperpage{10}
+    \subitem {i}, \hyperpage{10}
+    \subitem {times}, \hyperpage{10}
+  \item {cache.c}, \hyperpage{15}
+    \subitem {ArraySize}, \hyperpage{15}
+    \subitem {main}, \hyperpage{16}
+    \subitem {MAX}, \hyperpage{16}
+  \item {cache.py}, \hyperpage{16}
+  \item {cfunc.c}, \hyperpage{16}
+    \subitem {multiply}, \hyperpage{17}
+  \item {cfunc\_array.c}, \hyperpage{17}
+    \subitem {arraySum}, \hyperpage{17}
+  \item {clib}
+    \subitem {pyfunc}, \hyperpage{11}
+    \subitem {pyfunc\_array}, \hyperpage{12}
+
+  \indexspace
+
+  \item {dtype}
+    \subitem {pyfunc\_array}, \hyperpage{12}
+  \item {dummy}
+    \subitem {cache}, \hyperpage{10}
+
+  \indexspace
+
+  \item {i}
+    \subitem {cache}, \hyperpage{10}
+
+  \indexspace
+
+  \item {main}
+    \subitem {array.c}, \hyperpage{14}
+    \subitem {cache.c}, \hyperpage{16}
+  \item {MAX}
+    \subitem {cache.c}, \hyperpage{16}
+  \item {multiply}
+    \subitem {cfunc.c}, \hyperpage{17}
+
+  \indexspace
+
+  \item {pyfunc}, \hyperpage{10}
+    \subitem {a}, \hyperpage{10}
+    \subitem {argtypes}, \hyperpage{10}
+    \subitem {b}, \hyperpage{11}
+    \subitem {clib}, \hyperpage{11}
+    \subitem {restype}, \hyperpage{11}
+    \subitem {result}, \hyperpage{11}
+  \item {pyfunc.py}, \hyperpage{17}
+  \item {pyfunc\_array}, \hyperpage{11}
+    \subitem {A}, \hyperpage{12}
+    \subitem {argtypes}, \hyperpage{12}
+    \subitem {clib}, \hyperpage{12}
+    \subitem {dtype}, \hyperpage{12}
+    \subitem {restype}, \hyperpage{12}
+    \subitem {result}, \hyperpage{12}
+  \item {pyfunc\_array.py}, \hyperpage{18}
+
+  \indexspace
+
+  \item {restype}
+    \subitem {pyfunc}, \hyperpage{11}
+    \subitem {pyfunc\_array}, \hyperpage{12}
+  \item {result}
+    \subitem {pyfunc}, \hyperpage{11}
+    \subitem {pyfunc\_array}, \hyperpage{12}
+
+  \indexspace
+
+  \item {times}
+    \subitem {cache}, \hyperpage{10}
+
+\end{theindex}
